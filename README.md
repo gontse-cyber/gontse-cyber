@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Software Engineering Student  
+🎓 3rd Year Software Engineering Student  
 💻 Interested in Backend Systems & Machine Learning   
 🚀 Goal: Become a high-level problem solver and ML engineer  
 ⚡ FUN FACT: I love cats 🐱 and Sudoku
